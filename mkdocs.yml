@@ -1,0 +1,11 @@
+site_name: Franco Gasic Merino
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Sobre mí: sobre-mi.md
+  - Proyectos:
+      - Proyecto A: proyecto-a.md
+      - Proyecto B: proyecto-b.md
+  - Contacto: contacto.md
