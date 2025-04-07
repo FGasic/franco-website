@@ -1,11 +1,27 @@
 site_name: Franco Gasic Merino
+
 theme:
   name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: light blue
+    - scheme: slate
+      primary: blue grey
+      accent: light blue
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - extra.css
 
 nav:
   - Inicio: index.md
   - Sobre mí: sobre-mi.md
-  - Proyectos:
-      - Proyecto A: proyecto-a.md
-      - Proyecto B: proyecto-b.md
+  - Aprendizajes: Aprendizajes.md
+  - Hábitos: Hábitos.md
+  - Proyectos: Proyectos.md
   - Contacto: contacto.md
