@@ -1,21 +1,21 @@
 # ¡Bienvenido a mi sitio personal!
 
-<img src="Con Avion A.jpg" alt="Franco Gasic" width="200" style="border-radius: 50%;">
+<img src="Con Avion A.jpg" alt="Franco Gasic" width="500" style="border-radius: 12px; display: block; margin: 20px auto;" />
+
 
 ## ¿Quién soy?
 
-Hola, soy **Franco Gasic Merino**, Ingeniero Civil Electrónico de la UTFSM, amante del ajedrez, la tecnología, los proyectos desafiantes y la vida al aire libre.
-
-Este sitio es un espacio personal donde comparto parte de mi trabajo, intereses y reflexiones.
+Hola, soy **Franco Gasic Merino**, ✨ Este sitio es un espacio personal donde comparto parte de mis intereses, experiencias y reflexiones.
 
 ---
 
 ## ¿Qué encontrarás aquí?
 
-- 🧑‍💻 [Sobre mí](sobre-mi.md): una mirada más personal a mi historia y motivaciones.
-- 📊 [Proyecto A](proyecto-a.md): análisis de datos con Python y detección de anomalías.
-- 📡 [Proyecto B](proyecto-b.md): monitoreo en espacios metálicos con RFID.
-- 📬 [Contacto](contacto.md): formas de comunicarte conmigo.
+- 🧑‍💻 [Sobre mí](sobre-mi.md): Una mirada más personal a mi historia y motivaciones.
+- 📊📡 [Proyectos](Proyectos.md): Algunos de los principales proyectos en los que he trabajado.
+- 📘 [Aprendizajes](Aprendizajes.md): Lecciones y reflexiones clave que me han marcado.
+- 🌱 [Hábitos](Hábitos.md): Actividades y prácticas de desarrollo personal.
+- 📬 [Contacto](contacto.md): Formas de comunicarte conmigo.
 
 ---
 
